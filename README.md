@@ -1,3 +1,18 @@
+## About Me:
+
+I am a MS by Research student in the Centre for Visual Information Technology(CVIT) lab of International Institute of Information Technology(IIIT) in Hyderabad. I like understanding why stuff works the way it works. In addition to ML and DL, I like Mathematics and Physics. My liking for Mathematics draws my interest and efforts towards understanding the mathematics behind the working of working of Deep Learning models. I am interested in classical methods and Deep Learning models of Computer Vision. I graduated as a Mechanical Engineer and worked in Bharat Heavy Electricals Limited, Hyderabad before joining MS by Research at IIIT Hyderabad. My ambition and my interest to keep myself abreast with the advances in technology have drawn me towards the field of Machine learning and Deep Learning.
+
+
+## Research:
+
+At CVIT lab of IIIT, Hyderabad, I am presently working on improving low-light RGB images using NIR images.
+
+
+## Contact:
+
+I love discussions on Machine Learning, Deep Learning applied to Computer Vision, Mathematics and Physics. You can reach me on umamahesh.j@research.iiit.ac.in
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Umamahesh-J/Umamahesh-J.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
