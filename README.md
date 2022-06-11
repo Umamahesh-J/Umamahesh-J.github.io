@@ -16,4 +16,4 @@ I love discussions on Machine Learning, Deep Learning applied to Computer Vision
 
 ## CV:
 
-[Link](url)
+[Link](Resume.pdf)
